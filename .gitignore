@@ -1,0 +1,14 @@
+.venv
+.vagrant
+.ansible
+.vscode
+old
+logs/*
+vagrant/*
+generated/*
+*.tar.gz
+reports/
+__pycache__
+uv.lock
+dist
+build
